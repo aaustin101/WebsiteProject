@@ -1,0 +1,18 @@
+body {
+  background-color: black;
+  color: white;
+  font-family: sans-serif;
+}
+
+#name {
+  text-align: center;
+}
+
+#about {
+  padding-left: 50px;
+}
+
+#bio {
+  padding-left: 75px;
+  padding-right: 75px;
+}
